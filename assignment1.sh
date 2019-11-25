@@ -1,4 +1,5 @@
 #!/bin/sh
+# Author: Naqvi, Saif
 
 loop1(){
   if [ `cat $tmpfile1|wc -l` -gt 0 ]; then
